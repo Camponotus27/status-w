@@ -22,19 +22,19 @@
     "url": "https://www.miclublider.cl",
     "icon": "https://favicons.githubusercontent.com/www.miclublider.cl",
     "slug": "portal-mi-club",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "95.33%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
-    "time": 411,
-    "timeDay": 605,
-    "timeWeek": 421,
-    "timeMonth": 411,
-    "timeYear": 411,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "94.68%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 415,
+    "timeDay": 587,
+    "timeWeek": 427,
+    "timeMonth": 415,
+    "timeYear": 415,
     "dailyMinutesDown": {
-      "2022-02-18": 68
+      "2022-02-18": 77
     }
   }
 ]
