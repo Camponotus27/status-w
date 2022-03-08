@@ -22,6 +22,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2.3.3
         with:
+          lfs: true
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT }}
       - name: Check endpoint status
